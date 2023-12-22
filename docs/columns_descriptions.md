@@ -1,0 +1,18 @@
+ - FIPS: Unique area code for each geographic region.
+ - TOT_POP: Total population.
+ - 0-9, 10-19, ..., 80+: Distribution of the population across different age groups.
+ - % of total pop: Percentage of the total population in each age group.
+ - White-alone pop, Black-alone pop, Native American/American Indian-alone pop, Asian-alone pop, Hawaiian/Pacific Islander-alone pop, Two or more races pop: Population in each racial group.
+ - % White-alone, % Black-alone, % NA/AI-alone, % Asian-alone, % Hawaiian/PI-alone, % Two or more races: Percentage of the total population represented by each racial group.
+ - POP_ESTIMATE_2018: Population estimate for the year 2018.
+ - N_POP_CHG_2018: Change in population in 2018.
+ - GQ_ESTIMATES_2018: Estimates of population for group quarters (GQ) in 2018.
+ - R_birth_2018, R_death_2018, R_NATURAL_INC_2018: Birth rate, death rate, and natural increase rate in 2018.
+ - R_INTERNATIONAL_MIG_2018, R_DOMESTIC_MIG_2018, R_NET_MIG_2018: Rates of international migration, domestic migration, and net migration in 2018.
+ - Education: Data on the educational level of the population.
+ - POVALL_2018, PCTPOVALL_2018, MEDHHINC_2018: Data related to poverty and household income.
+ - Unemployment_rate_2018: Unemployment rate in 2018.
+ - Med_HH_Income_Percent_of_State_Total_2018: Median household income as a percentage of the total state income in 2018.
+ - Active Physicians, Total nurse practitioners, Total physician assistants: Data about healthcare professionals.
+ - ICU Beds_x: Number of intensive care unit beds.
+ - Urban_rural_code: Code indicating urban/rural classification.

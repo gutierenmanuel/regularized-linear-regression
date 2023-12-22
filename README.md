@@ -1,6 +1,6 @@
-# TITLE PROYECT
+# Regularized Linear Regression
 
-explanation of the github project
+This repository contains a comprehensive analysis of regularized linear regression using Lasso and Ridge techniques on a dataset encompassing sociodemographic and health resource information at the U.S. county level.
 
 ## Content
 
@@ -12,10 +12,7 @@ explanation of the github project
 
 ## Usage
 
-use or tutorial of the project
-
-## Examples
-
+Open the `/src` folder and explore the files with `.ipynb` extension
 
 
 ## Project Structure
